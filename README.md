@@ -1,2 +1,2 @@
 # Summer-2022
-C++ 1
+ITCS-2530: C++ Programming 1
